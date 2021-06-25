@@ -1,6 +1,6 @@
 👋 Hi, I’m Shadi Othman
 
-🌱 I’m currently learning Business Information Systems Advanced diploma in Saskatchewan Saskpolytechnic in Canada, finish studying on June 27th. 2021
+🌱 I’m currently learning Business Information Systems Advanced diploma in Saskatchewan Saskpolytechnic in Canada, finish studying on June 2021
 
 💞️ I’m looking to join a great company in an entry level position to build up my career....
 
@@ -12,7 +12,7 @@ const shadi = {
   
   code: [PHP- Cake, Javascript, HTML, CSS, Ruby, Java, C#],
   
-  tools: [Angular, XAMPP, Android studio, Visual Studio, Node, SharePoint, Docker, GitHup, Jira],
+  tools: [Laravel, Angular, XAMPP, Android studio, Visual Studio, Node, SharePoint, Docker, GitHup, Jira],
   
   challenge: "I am doing the #10WeeksOfCode challenge focused on flutter"
   
