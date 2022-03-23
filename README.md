@@ -10,9 +10,9 @@ const shadi = {
 
   pronouns: "he" | "his",
   
-  code: [PHP- Cake, Javascript, HTML, CSS, Ruby, Java, C#],
+  code: [PHP- Cake, Javascript, HTML, CSS, Java, C#],
   
-  tools: [Laravel, Angular, XAMPP, Android studio, Visual Studio, Node, SharePoint, Docker, GitHup, Jira],
+  Frameworks and tools: [.NET, Angular, XAMPP, Android studio, Visual Studio, Node, SharePoint, Docker, GitHup, Jira],
   
   challenge: "I am doing the #10WeeksOfCode challenge focused on flutter"
   
